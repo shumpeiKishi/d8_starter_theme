@@ -1,0 +1,8 @@
+name: Shump
+type: theme
+base theme: classy
+description: 'A base theme with sensible default CSS classes added. Learn how to use Classy as a base theme in the <a href="https://www.drupal.org/theme-guide/8">Drupal 8 Theming Guide</a>.'
+core: 8.x
+
+libraries:
+  - shump/global-styling

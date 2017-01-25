@@ -1,0 +1,26 @@
+{
+  "name": "web-starter",
+  "version": "1.0.0",
+  "description": "Web Starter for Drupal Theming",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-phpcs": "^1.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-scss-lint": "^0.4.0",
+    "imagemin-pngquant": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shumpei Kishi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shumpeiKishi/gulpWebStarter.git"
+  }
+}
